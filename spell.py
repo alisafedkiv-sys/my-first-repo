@@ -1,3 +1,4 @@
 #spell.py
-power = 777
+power = 100
 print(f"сила: {power}")
+print("rebase работает")
