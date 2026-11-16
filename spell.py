@@ -1,3 +1,3 @@
 #spell.py
-power = 999
+power = 777
 print(f"сила: {power}")
